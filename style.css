@@ -1,0 +1,133 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+    
+}
+
+.section-light{
+    
+    background-color: #eceeef;
+    padding: 2em;
+}
+
+.sectiondark{
+    
+    display: block;
+    width:100%;
+      background: red; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(black , green); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(black, green); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(black, green); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(black , green); /* Standard syntax */
+    padding: 1rem;
+    
+}
+
+.tab1{
+    color: white;
+    font-family:fantasy;
+    padding-top: 2%;
+}
+
+.professional
+{
+    color: floralwhite;
+    font-family: cursive;
+    text-align: center;
+    padding-bottom: 2%;
+    padding-top: 0.5%;
+    
+}
+.tab0{
+    color:white;
+    font-family:fantasy;
+    padding-top: 9%;
+}
+.technical
+{
+    color: floralwhite;
+    font-family: cursive;
+    text-align: center;
+    padding-bottom: 2%;
+    padding-top: 0.5%;
+    padding-left: 60%;
+}
+.tab2{
+    color:white;
+    padding-top: 10.5%;
+    font-family: fantasy;
+}
+.personal{
+    color: floralwhite;
+    font-family: cursive;
+    text-align: center;
+    padding-bottom: 2%;
+    padding-top: 0.5%;
+    
+}
+.tab3{
+    color:white;
+    padding-top: 3.5%;
+    font-family: fantasy;
+}
+.lead{
+    font-family: cursive;
+    font-size: 2rem;
+    text-shadow: 0 2px rgba(0, 0, 0, 0.3);
+    text-decoration-line:underline;
+    text-align: center;
+    padding-top: 5%;
+}
+
+.img-fluid.UI{
+
+    width: 100%;
+    height:40%;
+}
+
+.img-fluid.IS{
+    width: 100%;
+    height: 100%;
+    
+}
+
+.img-fluid.Mypassion{
+    
+    width: 100%;
+    height: 100%;
+    
+}
+.summary{
+    width: 100%;
+    display: block;
+    padding-top: 2%;
+padding-left: 1%;
+    font-family:serif;
+    padding-bottom: 4%;
+}
+
+.professonall{
+    padding: 0.5rem;
+    text-align: center;
+}
+.projects{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    text-underline-position: below;
+    font-family: cursive;
+}
+.cloud{
+    padding-bottom: 1%;
+    font-family: "Times New Roman", Serif;
+}
+.date1{
+    padding-bottom: 1%;
+    font-family: "Times New Roman", Serif;
+    text-align: right;
+}
+.role1{
+    font-family: "Times New Roman", Serif;
+    text-align: left
+}
+
